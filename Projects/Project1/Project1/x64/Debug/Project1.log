@@ -1,0 +1,8 @@
+﻿  LoginForm.cpp
+  MainForm.cpp
+  OrderForm.cpp
+  main.cpp
+M:\Microsoft Visual Studio\Projects\Project1\main.cpp(7,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  AddForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> M:\Microsoft Visual Studio\Projects\Project1\x64\Debug\Project1.exe

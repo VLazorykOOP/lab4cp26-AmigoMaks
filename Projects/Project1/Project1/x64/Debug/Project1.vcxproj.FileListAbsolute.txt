@@ -1,0 +1,9 @@
+M:\Microsoft Visual Studio\Projects\Project1\x64\Debug\MySql.Data.dll
+M:\Microsoft Visual Studio\Projects\Project1\x64\Debug\MySql.Data.xml
+M:\Microsoft Visual Studio\Projects\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+M:\Microsoft Visual Studio\Projects\Project1\Project1\x64\Debug\Project1.AddForm.resources
+M:\Microsoft Visual Studio\Projects\Project1\Project1\x64\Debug\Project1.LoginForm.resources
+M:\Microsoft Visual Studio\Projects\Project1\Project1\x64\Debug\Project1.MainForm.resources
+M:\Microsoft Visual Studio\Projects\Project1\Project1\x64\Debug\Project1.OrderForm.resources
+M:\Microsoft Visual Studio\Projects\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+M:\Microsoft Visual Studio\Projects\Project1\Project1\x64\Debug\Project1.vcxproj.Up2Date
